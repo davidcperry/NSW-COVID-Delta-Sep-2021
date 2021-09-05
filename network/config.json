@@ -8,18 +8,18 @@
     "text": "DP"
   },
   "text": {
-    "more": "NSW June 2021",
-    "intro": "NSW June 2021",
-    "title": "NSW1"
+    "more": "NSW June to Sept 2021",
+    "intro": "NSW June to Sept 2021",
+    "title": "NSW"
   },
   "legend": {
-    "edgeLabel": "E",
+    "edgeLabel": "Infection",
     "colorLabel": "LGA",
     "nodeLabel": "Case"
   },
   "features": {
-    "search": false,
-    "groupSelectorAttribute": false,
+    "search": true,
+    "groupSelectorAttribute": "Label",
     "hoverBehavior": "default"
   },
   "informationPanel": {
