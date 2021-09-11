@@ -480,7 +480,7 @@ display: none;
 }
 
 #zoom .z {
-	background:#fff;
+	background:rgb(136, 13, 13);
 	background-color:rgba(8, 8, 8, 0.7);
 	width: 60px;
 	height: 60px;
