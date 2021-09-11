@@ -517,7 +517,7 @@ display: none;
 
 #information {
 display: none;
-background: #fff;
+background: rgb(255, 255, 255);
 padding: 1px 10px 10px 10px;
 }
 
