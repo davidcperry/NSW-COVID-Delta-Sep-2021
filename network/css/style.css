@@ -552,7 +552,7 @@ background-position: -131px -122px;
 }
 
 #minify {
-background-color: #fff;
+background-color: rgb(10, 10, 10);
 padding: 4px 4px 4px 25px;
 cursor: pointer;
 background-image: url('../images/sprite.png');
