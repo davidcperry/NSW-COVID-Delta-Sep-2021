@@ -233,7 +233,7 @@ display: none;
 #mainpanel {
 margin-top: 50px;
 margin-left: 25px;
-background:#fff;
+background:rgb(212, 24, 24);
 background-color:rgba(8, 8, 8, 0.8);
 border:1px solid #ccc;
 z-index:20;
