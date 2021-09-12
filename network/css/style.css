@@ -3,40 +3,6 @@ padding: 0px;
 margin: 0px;
 }
 
-
-    body {
-        margin: 0;
-        background-color: black;
-        color: white;
-    }
-
-    #container {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-    }
-
-    #controls {
-        position: relative;
-        height: 20%;
-        width: 100%;
-    }
-
-    .btn {
-        margin: 5px;
-    }
-
-    .form-control {
-        margin: 5px;
-    }
-
-    div.custom-checkbox {
-        margin: 5px;
-    }
-
-
-
-
 .cf:before, .cf:after {
 	content: "";
 	display: table;
@@ -71,7 +37,7 @@ html,body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: #eee;
+	background-color: #181a18;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-touch-callout: none;
