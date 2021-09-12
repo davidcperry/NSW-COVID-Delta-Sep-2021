@@ -1,1 +1,1 @@
-# NSW-COVID-Delta-Sep-2021
+# sigma-basic-graph
