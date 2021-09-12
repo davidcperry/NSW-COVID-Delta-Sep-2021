@@ -8,13 +8,13 @@
     "text": "DP"
   },
   "text": {
-    "more": "NSW June to Sept 2021 v2.1",
-    "intro": "NSW June to Sept 2021 v2.1",
-    "title": "NSW2"
+    "more": "Data source:  https://data.nsw.gov.au/nsw-covid-19-data/cases\n\nThis is a representation of the NSW Coronavirus Delta strain outbreak in the form of a network graph.\n\nNote that NSW Health provides case data including chronology, but without explicit links between cases.\n\nFor the network graph, I\u0027ve linked cases using the following method:\n- Link each case to the most recent case within the same Local Government Area (LGA)\n- If no previous case in the same LGA, link to most recent case in the same Local Health District (LHD)\n- If no previous case in either LGA of LHD, link to most recent case \n\nSo whilst case linkages are therefore a construct to some degree, the scale of the network is nonetheless a completely real depiction of the outbreak. ",
+    "intro": "NSW COVID-19 Delta outbreak June to August 2021 (v2.1)",
+    "title": "NSW"
   },
   "legend": {
     "edgeLabel": "Infection",
-    "colorLabel": "LGA",
+    "colorLabel": "Local Government Area (LGA)",
     "nodeLabel": "Case"
   },
   "features": {
