@@ -8,8 +8,8 @@
     "text": "DP"
   },
   "text": {
-    "more": "NSW COVID-19 Delta outbreak June to August 2021 (v2.1)\n\u003cBR\u003e\nData source:  https://data.nsw.gov.au/nsw-covid-19-data/cases\n\u003cBR\u003e\nThis is a representation of the NSW Coronavirus Delta strain outbreak in the form of a network graph.\n\u003cBR\u003e\nNote that NSW Health provides case data including chronology, but without explicit links between cases.\n\u003cBR\u003e\nFor the network graph, I\u0027ve linked cases using the following method:\n- Link each case to the most recent case within the same Local Government Area (LGA)\n- If no previous case in the same LGA, link to most recent case in the same Local Health District (LHD)\n- If no previous case in either LGA of LHD, link to most recent case \n\u003cBR\u003e\nSo whilst case linkages are therefore a construct to some degree, the scale of the network is nonetheless a completely real depiction of the outbreak. ",
-    "intro": "NSW COVID-19 Delta outbreak June to August 2021 (v2.1)\nData source:  https://data.nsw.gov.au/nsw-covid-19-data/cases\n",
+    "more": "NSW COVID-19 Delta outbreak June to August 2021 (v2.1)\n\u003cBR\u003e\nData source:  https://data.nsw.gov.au/nsw-covid-19-data/cases\n\u003cBR\u003e\u003cBR\u003e\nThis is a representation of the NSW Coronavirus Delta strain outbreak in the form of a network graph.\n\u003cBR\u003e\nNote that NSW Health provides case data including chronology, but without explicit links between cases.\n\u003cBR\u003e\u003cBR\u003e\nFor the purposes of the network graph, I\u0027ve linked cases using the following method:\n\u003cBR\u003e- Link each case to the most recent case within the same Local Government Area (LGA)\n\u003cBR\u003e- If no previous case in the same LGA, link to most recent case in the same Local Health District (LHD)\n\u003cBR\u003e- If no previous case in either LGA of LHD, link to most recent case \n",
+    "intro": "NSW COVID-19 Delta outbreak June to August 2021 (v2.1)\n\u003cBR\u003eData source:  https://data.nsw.gov.au/nsw-covid-19-data/cases\n",
     "title": "NSW COVID-19 Delta outbreak June to August 2021 (v2.1)"
   },
   "legend": {
